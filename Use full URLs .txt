@@ -2,3 +2,4 @@ https://chemistry-en.nobook.com/ - chemistry simulation
 https://wokwi.com/ - circuit simulator
 https://cymath.com/ -math solver 
 https://zperiod.app/ - atom level simulator
+https://play-cs.com/en/servers - online game
