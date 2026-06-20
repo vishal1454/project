@@ -5,3 +5,5 @@ https://zperiod.app/ - atom level simulator
 https://play-cs.com/en/servers - online game
 https://human.biodigital.com/ -human body human
 https://emupedia.net/beta/emuos/ - OMG games simulator
+https://javalab.org - science experiment simulator
+https://cloud.gg - infinity games on x box
